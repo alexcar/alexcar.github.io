@@ -20,6 +20,8 @@
 
 title: Blog do AlexCar
 email: alexcar.dev@outlook.com
+fullname: Alexandre Carvalho
+copyrightmessage: "Copyright ©"
 description: >- # this means to ignore newlines until "baseurl:"
   Blog destinado a compartilhar conteúdos técnicos sobre programação.
 baseurl: "" # the subpath of your site, e.g. /blog
