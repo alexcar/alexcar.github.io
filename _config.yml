@@ -32,8 +32,11 @@ theme: minima
 plugins:
   - jekyll-feed
 
-permalink: /:year/:month/:day/:title
+# permalink: /:year/:month/:day/:title
+permalink: /:day/:month/:year/:title
 markdown: kramdown
+minima:
+  date_format: "%d/%m/%Y"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
