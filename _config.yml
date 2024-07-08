@@ -28,6 +28,8 @@ twitter_username: alexcar_dev
 github_username:  alexcar
 linkedin_username: jalexandrescarvalho
 
+google_analytics: G-QJS68KD4SH
+
 # Build settings
 theme: minima
 plugins:
