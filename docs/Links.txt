@@ -1,0 +1,12 @@
+*************
+*** Links ***
+*************
+
+https://learn.microsoft.com/pt-br/previous-versions/visualstudio/visual-studio-2010/ms173176(v=vs.100)
+https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll
+https://andre-benevides.medium.com/creating-a-serial-port-wrapper-c-net-framework-390584531285
+https://learn.microsoft.com/en-us/dotnet/api/system.io.ports.serialport?view=net-8.0
+https://github.com/jekyll/minima
+https://jekyllrb.com/docs/installation/
+https://jekyllrb.com/docs/posts/
+https://www.fabriziomusacchio.com/blog/2021-08-11-Syntax_Highlighting_in_Jekyll/
